@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.projecttango.experiments.quickstartjava;
+package com.swimr.tango.coordinateconverter;
 
 import java.util.ArrayList;
 
@@ -32,7 +32,7 @@ import com.google.atap.tangoservice.TangoEvent;
 import com.google.atap.tangoservice.TangoOutOfDateException;
 import com.google.atap.tangoservice.TangoPoseData;
 import com.google.atap.tangoservice.TangoXyzIjData;
-import com.projecttango.quickstartjava.R;
+import com.swimr.tango.coordinateconverter.R;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
